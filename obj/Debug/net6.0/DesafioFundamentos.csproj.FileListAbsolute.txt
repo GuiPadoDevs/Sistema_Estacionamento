@@ -1,0 +1,15 @@
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+D:\guipa\Documents\PASTA GUI\PROGRAMAÇÕES\BOOTCAMP C# E .NET\SISTEMA DE ESTACIONAMENTO\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
